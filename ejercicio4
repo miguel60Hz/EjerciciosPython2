@@ -1,0 +1,5 @@
+nota = 105
+if nota > 100:
+    print("Alta")
+else:
+    print("Baja")
